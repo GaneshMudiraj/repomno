@@ -16,7 +16,8 @@ public class FourTest extends Base{
 	@Test
 	public void fourTest() throws IOException, InterruptedException {
 		
-		System.out.println("Ganesh has updated this course with this statement");
+		System.out.println("Ganesh has updated this code with this statement");
+		System.out.println("Ganesh second updated code");
 		
 		System.out.println("TestFour");
 
